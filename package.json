@@ -8,7 +8,7 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/thinkful-ei-panda/webpack-day-Katie-Elias.git"
   },
