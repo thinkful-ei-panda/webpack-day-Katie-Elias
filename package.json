@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-panda/webpack-day-Katie-Elias/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-Katie-Elias#readme"
+  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-Katie-Elias#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
